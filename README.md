@@ -167,11 +167,11 @@
 	<a href="https://github.com/ziannaisilaa/LeetCode_DailyChallenge_2023">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziannaisilaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/ziannaisilaa/Ahmed-Hossam">
+	<a href="https://github.com/ziannaisilaa">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziannaisilaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziannaisilaa&repo=MSIB5-FSWEB&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/CP-Templates">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
