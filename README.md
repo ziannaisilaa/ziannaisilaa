@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
+![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Handwriting&size=30&pause=1000&color=8639C8&random=false&width=435&lines=Hello%2C+it's+Zian+Naisila+Anjarwati;i'm+Learning+Developer;Frontend+%26+Backend+Web" alt="Typing SVG"></a>
